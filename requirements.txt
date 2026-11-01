@@ -1,0 +1,7 @@
+aiohttp
+dnspython
+pyrofork==2.3.50
+psutil
+motor
+TgCrypto
+requests
